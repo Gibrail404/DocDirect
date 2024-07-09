@@ -7,9 +7,7 @@ DocDirect is a comprehensive hospital management system built using the MERN sta
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Screenshots](#screenshots)
 - [Demo](#demo)
-- [Video](#video)
 - [Technologies](#technologies)
 - [Contributing](#contributing)
 - [License](#license)
@@ -78,13 +76,10 @@ After setting up the project, you can log in as an admin or patient to access di
 
 ## Demo
 
-Check out the [live demo](https://docdirect.netlify.app/) of DocDirect.
+Check out the [Live Demo](https://docdirect.netlify.app/) of DocDirect.
 
 Check out the [Admin Dashboard](https://docdirect-admin.netlify.app/login) of DocDirect.
 
-## Video
-
-Watch a detailed [video walkthrough](https://your-video-link.com) of DocDirect to see all features in action.
 
 ## Technologies
 
@@ -92,9 +87,11 @@ Watch a detailed [video walkthrough](https://your-video-link.com) of DocDirect t
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Toastify](https://img.shields.io/badge/Toastify-FFDD00?style=for-the-badge&logo=react&logoColor=black)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+![React-Icons](https://img.shields.io/badge/React--Icons-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React-Router](https://img.shields.io/badge/React--Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 
 ## Contributing
 
