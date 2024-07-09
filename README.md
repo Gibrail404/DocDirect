@@ -8,6 +8,7 @@ DocDirect is a comprehensive hospital management system built using the MERN sta
 - [Installation](#installation)
 - [Usage](#usage)
 - [Demo](#demo)
+- [Video](#video)
 - [Technologies](#technologies)
 - [Contributing](#contributing)
 - [License](#license)
@@ -79,6 +80,10 @@ After setting up the project, you can log in as an admin or patient to access di
 Check out the [Live Demo](https://docdirect.netlify.app/) of DocDirect.
 
 Check out the [Admin Dashboard](https://docdirect-admin.netlify.app/login) of DocDirect.
+
+## Video
+
+ Watch a detailed [video walkthrough](https://youtu.be/dqVOCRSLpvM?si=fuxz9Ce6DNuboueo) of DocDirect to see all features in action.
 
 
 ## Technologies
